@@ -1,4 +1,3 @@
 cortexdevteam.com
 =======================
-
-nothing to see here
+Thank you @sticktron for help.
